@@ -1,49 +1,83 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Biography"
 author_profile: true
 redirect_from:
   - /about/
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own 
 
-A data-driven personal website
+I am currently a Master student majoring in Computer Technology at ZJU-UIUC Joint Institute, Zhejiang University, advised by Prof. [Hongwei Wang](https://person.zju.edu.cn/en/hwang).
+
+My research interests lie at Trustworthy Machine Learning, Deep Learning based Fault Diagnosis. I consistently seek simple yet effective methods, grounded in deep insights and supported by strong theoretical foundations.
+
+# Education
+- **Zhejiang University** (QS 44), Sep. 2022 -- Mar. 2025 (Expected)
+  MEng. Computer Technology @ ZJU-UIUC Joint Institute, Hangzhou, China
+  **Ranking: 1/82**; Supervisor: Prof. [Hongwei Wang](https://person.zju.edu.cn/en/hwang)
+- **University of Leeds** (QS 75), Sep. 2018 -- Jun. 2022
+  BSc. Computer Science - **Honors Class I** @ School of Computing, Leeds, United Kingdom
+- **Southwest Jiaotong University**, Sep. 2018 -- Jun. 2022
+  BEng. Computer Science and Technology, Chengdu, China
+  **Ranking: 1/75**; Supervisor: Prof. [Tianrui Li](https://scholar.google.com/citations?user=CQ1HneMAAAAJ)
+
+
+
+Publications(*Equal Contribution)
 ======
-Like many other Jekyll-based GitHub Pages templates, academicpages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
+- [Generalized Out-of-distribution Fault Diagnosis (GOOFD) via Internal Contrastive Learning](https://ieeexplore.ieee.org/abstract/document/10510599)
+Xingyue Wang*, **Hanrong Zhang***, Xinlong Qiao, Ke Ma, Shuting Tao, Peng Peng, Hongwei Wang
+IEEE Transactions on Industrial Informatics (**IF=12.3**, JCR Q1 SCI)
+- [Imbalanced Chemical Process Fault Diagnosis Using Balancing GAN With Active Sample Selection](https://ieeexplore.ieee.org/abstract/document/10114639)
+Peng Peng*, **Hanrong Zhang***, Xinyue Wang, Wanqiu Huang, Hongwei Wang
+IEEE Sensors Journal (IF=4.3, JCR Q1 SCI)
+- [SAKA: an intelligent platform for semi-automated knowledge graph construction and application](https://link.springer.com/article/10.1007/s11761-023-00371-x)
+Service Oriented Computing and Applications
+**Hanrong Zhang**, Xinyue Wang, Jiabao Pan, Hongwei Wang
+- [An Intelligent System for Semantic Information Extraction and Knowledge Graph Construction from Multi-Type Data Sources](https://ieeexplore.ieee.org/abstract/document/10035077)
+**Hanrong Zhang**, Xinyue Wang, Bo Qin, Hongwei Wang
+IEEE International Conference on e-Business Engineering (ICEBE 2022)
+- [Towards Imperceptible Backdoor Attack in Self-supervised Learning](https://arxiv.org/abs/2405.14672)
+**Hanrong Zhang***, [Zhenting Wang](https://zhentingwang.github.io/)*, Tingxu Han, Mingyu Jin, Chenlu Zhan, [Mengnan Du](https://mengnandu.com/), Hongwei Wang, [Shiqing Ma](https://people.cs.umass.edu/~shiqingma/) (preprint)
+- [SCLIFD: Supervised Contrastive Knowledge Distillation for Incremental Fault Diagnosis under Limited Fault Data]()
+**Hanrong Zhang**, Peng Peng, Mengxuan Li, Gongzhuang Peng, Hongwei Wang, [Weiming Shen](https://scholar.google.ca/citations?user=FuSHsx4AAAAJ&hl=en) (preprint)
+- [Multi-gate Mixture-of-Expert Combined with Synthetic Minority Over-sampling Technique for Multimode Imbalanced Fault Diagnosis](https://ieeexplore.ieee.org/abstract/document/10152774)
+Wanqiu Huang, **Hanrong Zhang**, Peng Peng, Hongwei Wang
+International Conference on Computer Supported Cooperative Work in Design (IEEE CSCWD 2023, **Best Paper Award Finalist**)
+- [Debiasing Medical Visual Question Answering via Counterfactual Training](https://link.springer.com/chapter/10.1007/978-3-031-43895-0_36)
+Chenlu Zhan, Peng Peng, **Hanrong Zhang**, Haiyue Sun, Chunnan Shang, Tao Chen, Hongsen Wang, Gaoang Wang, Hongwei Wang
+International Conference on Medical Image Computing and Computer-Assisted Intervention (MICCAI 2023)
+# Honors
 
-Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over -- just be sure to save the markdown files! Finally, you can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
+## Scholarships
+- **National Scholarship for Graduate Students (Top 0.2\%)**, ZJU, 2022 - 2023
+- **First-class full-ride Scholarship (1/75, ￥62000)**, UoL, 2020 - 2021
+- **National Scholarship for Undergraduate Students (Top 0.2\%)**, SWJTU, 2019 - 2020
+- Second-class Scholarship (￥25000), UoL, 2018 - 2019
 
-Getting started
+## Academic Awards
+- Award of Honor for Graduate, ZJU, 2022 - 2023
+- Graduate with Merit A Performance, ZJU, 2022 - 2023
+- **Provincial Outstanding Graduate**, SWJTU, 2022;
+- **Best Student in Computer Science (1/75)**, UoL, 2020 - 2021
+- **Best Student Overall (1/300, 4 majors)**, UoL, 2018 - 2019
+- Pacemaker to Merit Student (Top 1\%), SWJTU, 2018 - 2019 & 2019 - 2020 & 2020 - 2021
+
+
+
+
+# Competiton Awards
+- Mathematical Modeling Contest for College Students, National Second Prize (Top 0.5\% of 45,000 teams), Sep. 2020
+- Students Service Outsourcing Innovation and Entrepreneurship Competition, National Second Prize (Top 3\%), Aug. 2020
+- Mathorcup College Mathematical Modeling Competition,  First Prize (Top 3\%), May 2020
+- May Day Mathematical Modeling Competition, First Prize (Top 5\%), May 2020
+- American College Student Mathematical Modeling Contest, Honorable Methion (Top 10\%), Jan. 2020
+- Mathematical Modeling Competition in Southwest Jiaotong University, First Prize (Top 5\%), Nov. 2019
+
+
+Teaching
 ======
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right.
-2. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-3. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-4. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.
-5. Check status by going to the repository settings, in the "GitHub pages" section
+- Teaching Assistant, ECE 448: Artificial Intelligence, Zhejiang University & University of Illinois Urbana-Champaign, Spring 2023 & Spring 2024 (for undergraduates)
+- Teaching Assistant, ECE 2013: Artificial Intelligence, Zhejiang University, Fall 2023 (for graduates)
 
-Site-wide configuration
-------
-The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header.
-
-Create content & metadata
-------
-For site content, there is one markdown file for each type of content, which are stored in directories like _publications, _talks, _posts, _teaching, or _pages. For example, each talk is a markdown file in the [_talks directory](https://github.com/academicpages/academicpages.github.io/tree/master/_talks). At the top of each markdown file is structured data in YAML about the talk, which the theme will parse to do lots of cool stuff. The same structured data about a talk is used to generate the list of talks on the [Talks page](https://academicpages.github.io/talks), each [individual page](https://academicpages.github.io/talks/2012-03-01-talk-1) for specific talks, the talks section for the [CV page](https://academicpages.github.io/cv), and the [map of places you've given a talk](https://academicpages.github.io/talkmap.html) (if you run this [python file](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.py) or [Jupyter notebook](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb), which creates the HTML for the map based on the contents of the _talks directory).
-
-**Markdown generator**
-
-I have also created [a set of Jupyter notebooks](https://github.com/academicpages/academicpages.github.io/tree/master/markdown_generator
-) that converts a CSV containing structured data about talks or presentations into individual markdown files that will be properly formatted for the academicpages template. The sample CSVs in that directory are the ones I used to create my own personal website at stuartgeiger.com. My usual workflow is that I keep a spreadsheet of my publications and talks, then run the code in these notebooks to generate the markdown files, then commit and push them to the GitHub repository.
-
-How to edit your site's GitHub repository
-------
-Many people use a git client to create files on their local computer and then push them to GitHub's servers. If you are not familiar with git, you can directly edit these configuration and markdown files directly in the github.com interface. Navigate to a file (like [this one](https://github.com/academicpages/academicpages.github.io/blob/master/_talks/2012-03-01-talk-1.md) and click the pencil icon in the top right of the content preview (to the right of the "Raw | Blame | History" buttons). You can delete a file by clicking the trashcan icon to the right of the pencil icon. You can also create new files or upload files by navigating to a directory and clicking the "Create new file" or "Upload files" buttons.
-
-Example: editing a markdown file for a talk
-![Editing a markdown file for a talk](/images/editing-talk.png)
-
-For more info
-------
-More info about configuring academicpages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
