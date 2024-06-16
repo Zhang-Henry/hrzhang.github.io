@@ -90,6 +90,6 @@ Honors
 
 Teachings
 ======
-- Teaching Assistant, *ECE 448: Artificial Intelligence*, Zhejiang University & University of Illinois Urbana-Champaign, Spring 2023 & Spring 2024 (for undergraduates)
+- Teaching Assistant, *ECE 448: Artificial Intelligence*, Zhejiang University & University of Illinois Urbana-Champaign (with Prof. [Mark Hasegawa-Johnson](https://ece.illinois.edu/about/directory/faculty/jhasegaw)), Spring 2023 & Spring 2024 (for undergraduates)
 - Teaching Assistant, *ECE 2013: Artificial Intelligence*, Zhejiang University, Fall 2023 (for graduates)
 
